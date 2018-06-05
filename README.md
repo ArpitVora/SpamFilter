@@ -2,7 +2,9 @@
 Identify emails as Spam or Ham using Natural Language Processing and different machine learning techniques
 
 # NLTK library installation
-sudo pip install -U nltk
+- sudo pip install -U nltk
+- import nltk
+- nltk.download()  [to download all packages]
 
 # Files
 - NLP_PreProcessing: 
